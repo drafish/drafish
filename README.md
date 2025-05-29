@@ -1,15 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DJQ
 ===========================================================================================================================
-Fullstack Web Developer, Self Taught
-------------------------
-
-I've been learning to code for 7 years, after switching careers. Totally self-taught. I'm trying to be a project manager recently, because I have my own project now. I call it Remix CC. It's public goods in ethereum eco. My work is funded by PlanckerDAO and GCC. So yeah, I'm not hired by any company, and I can work anywhere I want. That's the best part. Maybe I will start my own company in the future. Who knows? If that day really happen, I promise you that it's gonna be totally remote for everybody.
-
-* 🌍  I'm based in HangZhou China
-* ✉️  You can contact me at [xwlyy1991@gmail.com](mailto:xwlyy1991@gmail.com)
-* 🚀  I'm currently working on [Remix CC](http://https://github.com/PlanckerLabs/remix-cc), the chinese community of Remix IDE
-* 🤝  I'm open to collaborating on [Remix IDE](https://remix.ethereum.org/)
-* ⚡  I'm a fan of Immortal Cultivation culture. Fellow Taoists, let's cultivate Immortality together!
 
 ### Skills
 
